@@ -235,4 +235,3 @@ You are free to use, modify, and extend it.
 =======
 # StudentManagementSystemUsingDjango
 A role-based Student Management System built with Django for managing students, staff, attendance, results, and academic workflows.
->>>>>>> 021ee5bb24a1e1bdbd53e272386d6e365688ac0a

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Management System — Django
 
 A full-stack **Student Management System** built with Django that enables educational institutions to manage students, staff, courses, attendance, academic results, and administrative workflows through a secure, role-based web application.
@@ -232,3 +233,7 @@ If needed, production deployment documentation or Docker setup can be added.
 
 This project is intended for educational and demonstration purposes.
 You are free to use, modify, and extend it.
+=======
+# StudentManagementSystemUsingDjango
+A role-based Student Management System built with Django for managing students, staff, attendance, results, and academic workflows.
+>>>>>>> 021ee5bb24a1e1bdbd53e272386d6e365688ac0a
